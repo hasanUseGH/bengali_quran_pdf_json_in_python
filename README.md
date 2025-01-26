@@ -17,3 +17,4 @@ This automation ensures accuracy, efficiency, and ease of customization, making 
 - **Accessible for all:** Whether you are a student, researcher, or someone seeking spiritual knowledge, this initiative makes the Quran more accessible.  
 
 Download your copy today and explore the Quran in Bengali with the convenience of a digital format.
+- **Link for PDF** [Download Bengali Quran](https://github.com/hasanUseGH/bengali_quran_pdf_json_in_python/blob/main/full%20bengali%20quran/only%20bengali%20quran.pdf) 
