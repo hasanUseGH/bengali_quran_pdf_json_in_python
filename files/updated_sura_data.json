@@ -1,0 +1,572 @@
+[
+    {
+        "englishName": "Al-Faatiha",
+        "englishNameTranslation": "The Opening",
+        "sura": 1
+    },
+    {
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "sura": 2
+    },
+    {
+        "englishName": "Aal-i-Imraan",
+        "englishNameTranslation": "The Family of Imraan",
+        "sura": 3
+    },
+    {
+        "englishName": "An-Nisaa",
+        "englishNameTranslation": "The Women",
+        "sura": 4
+    },
+    {
+        "englishName": "Al-Maaida",
+        "englishNameTranslation": "The Table",
+        "sura": 5
+    },
+    {
+        "englishName": "Al-An'aam",
+        "englishNameTranslation": "The Cattle",
+        "sura": 6
+    },
+    {
+        "englishName": "Al-A'raaf",
+        "englishNameTranslation": "The Heights",
+        "sura": 7
+    },
+    {
+        "englishName": "Al-Anfaal",
+        "englishNameTranslation": "The Spoils of War",
+        "sura": 8
+    },
+    {
+        "englishName": "At-Tawba",
+        "englishNameTranslation": "The Repentance",
+        "sura": 9
+    },
+    {
+        "englishName": "Yunus",
+        "englishNameTranslation": "Jonas",
+        "sura": 10
+    },
+    {
+        "englishName": "Hud",
+        "englishNameTranslation": "Hud",
+        "sura": 11
+    },
+    {
+        "englishName": "Yusuf",
+        "englishNameTranslation": "Joseph",
+        "sura": 12
+    },
+    {
+        "englishName": "Ar-Ra'd",
+        "englishNameTranslation": "The Thunder",
+        "sura": 13
+    },
+    {
+        "englishName": "Ibrahim",
+        "englishNameTranslation": "Abraham",
+        "sura": 14
+    },
+    {
+        "englishName": "Al-Hijr",
+        "englishNameTranslation": "The Rock",
+        "sura": 15
+    },
+    {
+        "englishName": "An-Nahl",
+        "englishNameTranslation": "The Bee",
+        "sura": 16
+    },
+    {
+        "englishName": "Al-Israa",
+        "englishNameTranslation": "The Night Journey",
+        "sura": 17
+    },
+    {
+        "englishName": "Al-Kahf",
+        "englishNameTranslation": "The Cave",
+        "sura": 18
+    },
+    {
+        "englishName": "Maryam",
+        "englishNameTranslation": "Mary",
+        "sura": 19
+    },
+    {
+        "englishName": "Taa-Haa",
+        "englishNameTranslation": "Taa-Haa",
+        "sura": 20
+    },
+    {
+        "englishName": "Al-Anbiyaa",
+        "englishNameTranslation": "The Prophets",
+        "sura": 21
+    },
+    {
+        "englishName": "Al-Hajj",
+        "englishNameTranslation": "The Pilgrimage",
+        "sura": 22
+    },
+    {
+        "englishName": "Al-Muminoon",
+        "englishNameTranslation": "The Believers",
+        "sura": 23
+    },
+    {
+        "englishName": "An-Noor",
+        "englishNameTranslation": "The Light",
+        "sura": 24
+    },
+    {
+        "englishName": "Al-Furqaan",
+        "englishNameTranslation": "The Criterion",
+        "sura": 25
+    },
+    {
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "sura": 26
+    },
+    {
+        "englishName": "An-Naml",
+        "englishNameTranslation": "The Ant",
+        "sura": 27
+    },
+    {
+        "englishName": "Al-Qasas",
+        "englishNameTranslation": "The Stories",
+        "sura": 28
+    },
+    {
+        "englishName": "Al-Ankaboot",
+        "englishNameTranslation": "The Spider",
+        "sura": 29
+    },
+    {
+        "englishName": "Ar-Room",
+        "englishNameTranslation": "The Romans",
+        "sura": 30
+    },
+    {
+        "englishName": "Luqman",
+        "englishNameTranslation": "Luqman",
+        "sura": 31
+    },
+    {
+        "englishName": "As-Sajda",
+        "englishNameTranslation": "The Prostration",
+        "sura": 32
+    },
+    {
+        "englishName": "Al-Ahzaab",
+        "englishNameTranslation": "The Clans",
+        "sura": 33
+    },
+    {
+        "englishName": "Saba",
+        "englishNameTranslation": "Sheba",
+        "sura": 34
+    },
+    {
+        "englishName": "Faatir",
+        "englishNameTranslation": "The Originator",
+        "sura": 35
+    },
+    {
+        "englishName": "Yaseen",
+        "englishNameTranslation": "Yaseen",
+        "sura": 36
+    },
+    {
+        "englishName": "As-Saaffaat",
+        "englishNameTranslation": "Those drawn up in Ranks",
+        "sura": 37
+    },
+    {
+        "englishName": "Saad",
+        "englishNameTranslation": "The letter Saad",
+        "sura": 38
+    },
+    {
+        "englishName": "Az-Zumar",
+        "englishNameTranslation": "The Groups",
+        "sura": 39
+    },
+    {
+        "englishName": "Ghafir",
+        "englishNameTranslation": "The Forgiver",
+        "sura": 40
+    },
+    {
+        "englishName": "Fussilat",
+        "englishNameTranslation": "Explained in detail",
+        "sura": 41
+    },
+    {
+        "englishName": "Ash-Shura",
+        "englishNameTranslation": "Consultation",
+        "sura": 42
+    },
+    {
+        "englishName": "Az-Zukhruf",
+        "englishNameTranslation": "Ornaments of gold",
+        "sura": 43
+    },
+    {
+        "englishName": "Ad-Dukhaan",
+        "englishNameTranslation": "The Smoke",
+        "sura": 44
+    },
+    {
+        "englishName": "Al-Jaathiya",
+        "englishNameTranslation": "Crouching",
+        "sura": 45
+    },
+    {
+        "englishName": "Al-Ahqaf",
+        "englishNameTranslation": "The Dunes",
+        "sura": 46
+    },
+    {
+        "englishName": "Muhammad",
+        "englishNameTranslation": "Muhammad",
+        "sura": 47
+    },
+    {
+        "englishName": "Al-Fath",
+        "englishNameTranslation": "The Victory",
+        "sura": 48
+    },
+    {
+        "englishName": "Al-Hujuraat",
+        "englishNameTranslation": "The Inner Apartments",
+        "sura": 49
+    },
+    {
+        "englishName": "Qaaf",
+        "englishNameTranslation": "The letter Qaaf",
+        "sura": 50
+    },
+    {
+        "englishName": "Adh-Dhaariyat",
+        "englishNameTranslation": "The Winnowing Winds",
+        "sura": 51
+    },
+    {
+        "englishName": "At-Tur",
+        "englishNameTranslation": "The Mount",
+        "sura": 52
+    },
+    {
+        "englishName": "An-Najm",
+        "englishNameTranslation": "The Star",
+        "sura": 53
+    },
+    {
+        "englishName": "Al-Qamar",
+        "englishNameTranslation": "The Moon",
+        "sura": 54
+    },
+    {
+        "englishName": "Ar-Rahmaan",
+        "englishNameTranslation": "The Beneficent",
+        "sura": 55
+    },
+    {
+        "englishName": "Al-Waaqia",
+        "englishNameTranslation": "The Inevitable",
+        "sura": 56
+    },
+    {
+        "englishName": "Al-Hadid",
+        "englishNameTranslation": "The Iron",
+        "sura": 57
+    },
+    {
+        "englishName": "Al-Mujaadila",
+        "englishNameTranslation": "The Pleading Woman",
+        "sura": 58
+    },
+    {
+        "englishName": "Al-Hashr",
+        "englishNameTranslation": "The Exile",
+        "sura": 59
+    },
+    {
+        "englishName": "Al-Mumtahana",
+        "englishNameTranslation": "She that is to be examined",
+        "sura": 60
+    },
+    {
+        "englishName": "As-Saff",
+        "englishNameTranslation": "The Ranks",
+        "sura": 61
+    },
+    {
+        "englishName": "Al-Jumu'a",
+        "englishNameTranslation": "Friday",
+        "sura": 62
+    },
+    {
+        "englishName": "Al-Munaafiqoon",
+        "englishNameTranslation": "The Hypocrites",
+        "sura": 63
+    },
+    {
+        "englishName": "At-Taghaabun",
+        "englishNameTranslation": "Mutual Disillusion",
+        "sura": 64
+    },
+    {
+        "englishName": "At-Talaaq",
+        "englishNameTranslation": "Divorce",
+        "sura": 65
+    },
+    {
+        "englishName": "At-Tahrim",
+        "englishNameTranslation": "The Prohibition",
+        "sura": 66
+    },
+    {
+        "englishName": "Al-Mulk",
+        "englishNameTranslation": "The Sovereignty",
+        "sura": 67
+    },
+    {
+        "englishName": "Al-Qalam",
+        "englishNameTranslation": "The Pen",
+        "sura": 68
+    },
+    {
+        "englishName": "Al-Haaqqa",
+        "englishNameTranslation": "The Reality",
+        "sura": 69
+    },
+    {
+        "englishName": "Al-Ma'aarij",
+        "englishNameTranslation": "The Ascending Stairways",
+        "sura": 70
+    },
+    {
+        "englishName": "Nooh",
+        "englishNameTranslation": "Noah",
+        "sura": 71
+    },
+    {
+        "englishName": "Al-Jinn",
+        "englishNameTranslation": "The Jinn",
+        "sura": 72
+    },
+    {
+        "englishName": "Al-Muzzammil",
+        "englishNameTranslation": "The Enshrouded One",
+        "sura": 73
+    },
+    {
+        "englishName": "Al-Muddaththir",
+        "englishNameTranslation": "The Cloaked One",
+        "sura": 74
+    },
+    {
+        "englishName": "Al-Qiyaama",
+        "englishNameTranslation": "The Resurrection",
+        "sura": 75
+    },
+    {
+        "englishName": "Al-Insaan",
+        "englishNameTranslation": "Man",
+        "sura": 76
+    },
+    {
+        "englishName": "Al-Mursalaat",
+        "englishNameTranslation": "The Emissaries",
+        "sura": 77
+    },
+    {
+        "englishName": "An-Naba",
+        "englishNameTranslation": "The Announcement",
+        "sura": 78
+    },
+    {
+        "englishName": "An-Naazi'aat",
+        "englishNameTranslation": "Those who drag forth",
+        "sura": 79
+    },
+    {
+        "englishName": "Abasa",
+        "englishNameTranslation": "He frowned",
+        "sura": 80
+    },
+    {
+        "englishName": "At-Takwir",
+        "englishNameTranslation": "The Overthrowing",
+        "sura": 81
+    },
+    {
+        "englishName": "Al-Infitaar",
+        "englishNameTranslation": "The Cleaving",
+        "sura": 82
+    },
+    {
+        "englishName": "Al-Mutaffifin",
+        "englishNameTranslation": "Defrauding",
+        "sura": 83
+    },
+    {
+        "englishName": "Al-Inshiqaaq",
+        "englishNameTranslation": "The Splitting Open",
+        "sura": 84
+    },
+    {
+        "englishName": "Al-Burooj",
+        "englishNameTranslation": "The Constellations",
+        "sura": 85
+    },
+    {
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "sura": 86
+    },
+    {
+        "englishName": "Al-A'laa",
+        "englishNameTranslation": "The Most High",
+        "sura": 87
+    },
+    {
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "sura": 88
+    },
+    {
+        "englishName": "Al-Fajr",
+        "englishNameTranslation": "The Dawn",
+        "sura": 89
+    },
+    {
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "sura": 90
+    },
+    {
+        "englishName": "Ash-Shams",
+        "englishNameTranslation": "The Sun",
+        "sura": 91
+    },
+    {
+        "englishName": "Al-Lail",
+        "englishNameTranslation": "The Night",
+        "sura": 92
+    },
+    {
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "sura": 93
+    },
+    {
+        "englishName": "Ash-Sharh",
+        "englishNameTranslation": "The Consolation",
+        "sura": 94
+    },
+    {
+        "englishName": "At-Tin",
+        "englishNameTranslation": "The Fig",
+        "sura": 95
+    },
+    {
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "sura": 96
+    },
+    {
+        "englishName": "Al-Qadr",
+        "englishNameTranslation": "The Power, Fate",
+        "sura": 97
+    },
+    {
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "sura": 98
+    },
+    {
+        "englishName": "Az-Zalzala",
+        "englishNameTranslation": "The Earthquake",
+        "sura": 99
+    },
+    {
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "sura": 100
+    },
+    {
+        "englishName": "Al-Qaari'a",
+        "englishNameTranslation": "The Calamity",
+        "sura": 101
+    },
+    {
+        "englishName": "At-Takaathur",
+        "englishNameTranslation": "Competition",
+        "sura": 102
+    },
+    {
+        "englishName": "Al-Asr",
+        "englishNameTranslation": "The Declining Day, Epoch",
+        "sura": 103
+    },
+    {
+        "englishName": "Al-Humaza",
+        "englishNameTranslation": "The Traducer",
+        "sura": 104
+    },
+    {
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "sura": 105
+    },
+    {
+        "englishName": "Quraish",
+        "englishNameTranslation": "Quraysh",
+        "sura": 106
+    },
+    {
+        "englishName": "Al-Maa'un",
+        "englishNameTranslation": "Almsgiving",
+        "sura": 107
+    },
+    {
+        "englishName": "Al-Kawthar",
+        "englishNameTranslation": "Abundance",
+        "sura": 108
+    },
+    {
+        "englishName": "Al-Kaafiroon",
+        "englishNameTranslation": "The Disbelievers",
+        "sura": 109
+    },
+    {
+        "englishName": "An-Nasr",
+        "englishNameTranslation": "Divine Support",
+        "sura": 110
+    },
+    {
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "sura": 111
+    },
+    {
+        "englishName": "Al-Ikhlaas",
+        "englishNameTranslation": "Sincerity",
+        "sura": 112
+    },
+    {
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "sura": 113
+    },
+    {
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "sura": 114
+    }
+]
